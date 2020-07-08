@@ -58,7 +58,7 @@
 		<hibernate.jpa.api>1.0.1.Final</hibernate.jpa.api>
 		<validation.api>2.0.0.Final</validation.api>
 		<jboss.logging>3.3.1.Final</jboss.logging>
-		<mysql.connector.java>8.0.8-dmr</mysql.connector.java>
+		<mysql.connector.java>8.0.16</mysql.connector.java>
 		
 		<server.port>9990</server.port>
 	</properties>
