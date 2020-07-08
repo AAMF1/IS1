@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="ejb-jar" name="projeto2-data:ejb">
+    <output-path>$PROJECT_DIR$/projeto2-data/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>projeto2-data</module>
+        <packaging>ejb</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="projeto2-data.jar">
+      <element id="artifact" artifact-name="projeto2-data:ejb exploded" />
+    </root>
+  </artifact>
+</component>

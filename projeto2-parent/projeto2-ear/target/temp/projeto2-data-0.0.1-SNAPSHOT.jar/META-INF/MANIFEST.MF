@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: Tomas
+Class-Path: commons-codec-1.11.jar hibernate-entitymanager-4.1.4.Final
+ .jar jboss-transaction-api_1.1_spec-1.0.0.Final.jar dom4j-1.6.1.jar j
+ avassist-3.15.0-GA.jar
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_191
+

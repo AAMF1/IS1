@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/projeto2-business/projeto2-business.iml" filepath="$PROJECT_DIR$/projeto2-business/projeto2-business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projeto2-data/projeto2-data.iml" filepath="$PROJECT_DIR$/projeto2-data/projeto2-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projeto2-ear/projeto2-ear.iml" filepath="$PROJECT_DIR$/projeto2-ear/projeto2-ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projeto2-parent.iml" filepath="$PROJECT_DIR$/projeto2-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projeto2-web/projeto2-web.iml" filepath="$PROJECT_DIR$/projeto2-web/projeto2-web.iml" />
+    </modules>
+  </component>
+</project>
